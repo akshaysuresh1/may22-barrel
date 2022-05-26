@@ -1,6 +1,6 @@
 ### Data sources: 
-1. [District-level unapportioned database maintained by ICRISAT](http://data.icrisat.org/dld/src/crops.html) <br><br>
-2. Kaggle
+1. [District-level unapportioned database maintained by ICRISAT](http://data.icrisat.org/dld/src/crops.html) <br>
+2. [Kaggle: Historical weaher data for major Indian cities](https://www.kaggle.com/datasets/hiteshsoneji/historical-weather-data-for-indian-cities)  <br>
 
 ---
 ### Files: <br>
