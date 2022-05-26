@@ -27,3 +27,4 @@ When rain or snow falls onto the earth, it starts moving along the slopes. A por
 9. `ICRISAT_windspeed.csv`: Monthly wind speed (1958 &ndash; 2015) <br> 
 Wind speeds are measured in units of m/s. <br>
 
+10. `KAGGLE_[CityName].csv`: Hourly data on multiple parameters including precipitation, cloud cover and temperature in major cities <br>
