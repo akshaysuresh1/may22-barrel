@@ -22,10 +22,12 @@ Precipitation includes all forms of atmospheric water vapor that condense and fa
 
 7. `ICRISAT_rice.csv`: Yield, production, and harvested area of rice (1990 &ndash; 2017) <br>
 
-8. `ICRISAT_runoff.csv`: Monthly surface runoff data (1958 &ndash; 2015) <br>
+8. `ICRISAT_rice_irrigation.csv`: Rice-irrigated area (1990 &ndash; 2017) <br>
+
+9. `ICRISAT_runoff.csv`: Monthly surface runoff data (1958 &ndash; 2015) <br>
 When rain or snow falls onto the earth, it starts moving along the slopes. A portion of it seeps into the soil and to replenish Earth's groundwater. Most of it flows downhill as runoff when rainfall intensity is more than the seepage or infiltration. <br>
 
-9. `ICRISAT_windspeed.csv`: Monthly wind speed (1958 &ndash; 2015) <br> 
+10. `ICRISAT_windspeed.csv`: Monthly wind speed (1958 &ndash; 2015) <br> 
 Wind speeds are measured in units of m/s. <br>
 
-10. `KAGGLE_[CityName].csv`: Hourly data on multiple parameters including precipitation, cloud cover and temperature in major cities (2009 &ndash; 2019) <br>
+11. `KAGGLE_[CityName].csv`: Hourly data on multiple parameters including precipitation, cloud cover and temperature in major cities (2009 &ndash; 2019) <br>
