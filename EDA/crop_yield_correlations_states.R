@@ -19,7 +19,7 @@ sig_level <- 0.05
 # IN CASE WE WANT TO LOOK AT CONFIDENCE INTERVALS FOR CORRELATION COEFFICIENTS LATER
 conf_level <- 0.95
 # TYPE OF CORRELATION COEFFICIENTS -- OPTIONS ARE: "pearson", "kendall", "spearman"
-corr_method <- "pearson"
+corr_method <- "spearman"
 
 
 # READ DATA FRAME
@@ -33,6 +33,12 @@ state_names <- sort( unique( rice_yield_df$State.Name ) )
 n_states <- length( state_names )
 # NUMBER OF COVARIATES
 n_covariates <- dim( rice_yield_df )[2] - 6
+
+
+
+# REPLACE RICE.IRRIGATED.AREA BY RICE.IRRIGATED.AREA/RICE.AREA
+rice_yield_df$RICE.IRRIGATED.AREA..1000.ha. <- rice_yield_df$RICE.IRRIGATED.AREA..1000.ha./rice_yield_df$RICE.AREA..1000.ha.
+colnames( rice_yield_df )[which( colnames( rice_yield_df ) == "RICE.IRRIGATED.AREA..1000.ha." )] <- "RELATIVE.IRRIGATED.AREA"
 
 
 
