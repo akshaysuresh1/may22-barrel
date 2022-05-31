@@ -1,6 +1,6 @@
 ### Data sources: 
 1. [District-level unapportioned database maintained by ICRISAT](http://data.icrisat.org/dld/src/crops.html) <br>
-2. [Kaggle: Historical weaher data for major Indian cities](https://www.kaggle.com/datasets/hiteshsoneji/historical-weather-data-for-indian-cities)  <br>
+2. [(Kaggle) Shapefile of Indian districts, 2020](https://www.kaggle.com/imdevskp/india-district-wise-shape-files)  <br>
 
 ---
 ### Files: <br>
@@ -30,4 +30,4 @@ When rain or snow falls onto the earth, it starts moving along the slopes. A por
 10. `ICRISAT_windspeed.csv`: Monthly wind speed (1958 &ndash; 2015) <br> 
 Wind speeds are measured in units of m/s. <br>
 
-11. `KAGGLE_[CityName].csv`: Hourly data on multiple parameters including precipitation, cloud cover and temperature in major cities (2009 &ndash; 2019) <br>
+11. `India_districts2020*`: Shapefile (`.shp`) and relevant supporting files of Indian districts (2020). <br>
