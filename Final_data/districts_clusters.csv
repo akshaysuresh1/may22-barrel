@@ -12,84 +12,84 @@
 12,"Mandla","Madhya Pradesh",1
 13,"Sagar","Madhya Pradesh",1
 14,"Damoh","Madhya Pradesh",1
-15,"Tikamgarh","Madhya Pradesh",3
+15,"Tikamgarh","Madhya Pradesh",1
 16,"Chhatarpur","Madhya Pradesh",1
 17,"Panna","Madhya Pradesh",1
 18,"Rewa","Madhya Pradesh",3
 19,"Sidhi","Madhya Pradesh",1
-20,"Satna","Madhya Pradesh",1
+20,"Satna","Madhya Pradesh",3
 21,"Shahdol","Madhya Pradesh",1
 22,"Gwalior","Madhya Pradesh",3
 23,"Shivpuri","Madhya Pradesh",3
-24,"Guna","Madhya Pradesh",3
+24,"Guna","Madhya Pradesh",1
 25,"Datia","Madhya Pradesh",3
 26,"Morena","Madhya Pradesh",3
 27,"Bhind","Madhya Pradesh",3
 28,"Indore","Madhya Pradesh",1
-29,"Ratlam","Madhya Pradesh",3
-30,"Ujjain","Madhya Pradesh",3
-31,"Mandsaur","Madhya Pradesh",3
+29,"Ratlam","Madhya Pradesh",1
+30,"Ujjain","Madhya Pradesh",1
+31,"Mandsaur","Madhya Pradesh",1
 32,"Dewas","Madhya Pradesh",1
 33,"Dhar","Madhya Pradesh",3
-34,"Jhabua","Madhya Pradesh",3
+34,"Jhabua","Madhya Pradesh",1
 35,"Khargone","Madhya Pradesh",3
 36,"Khandwa","Madhya Pradesh",1
 37,"Sehore","Madhya Pradesh",1
 38,"Raisen","Madhya Pradesh",1
 39,"Vidisha","Madhya Pradesh",1
 40,"Betul","Madhya Pradesh",1
-41,"Rajgarh","Madhya Pradesh",3
+41,"Rajgarh","Madhya Pradesh",1
 42,"Shajapur","Madhya Pradesh",1
 43,"Hoshangabad","Madhya Pradesh",1
-44,"Srikakulam","Andhra Pradesh",1
+44,"Srikakulam","Andhra Pradesh",3
 45,"Visakhapatnam","Andhra Pradesh",1
-46,"East Godavari","Andhra Pradesh",1
-47,"West Godavari","Andhra Pradesh",1
-48,"Krishna","Andhra Pradesh",1
-49,"Guntur","Andhra Pradesh",1
+46,"East Godavari","Andhra Pradesh",3
+47,"West Godavari","Andhra Pradesh",3
+48,"Krishna","Andhra Pradesh",3
+49,"Guntur","Andhra Pradesh",3
 50,"S.P.S.Nellore","Andhra Pradesh",4
 51,"Kurnool","Andhra Pradesh",5
 52,"Anantapur","Andhra Pradesh",5
-53,"Kadapa YSR","Andhra Pradesh",6
+53,"Kadapa YSR","Andhra Pradesh",4
 54,"Chittoor","Andhra Pradesh",4
 55,"Hyderabad","Telangana",5
-56,"Nizamabad","Telangana",1
-57,"Medak","Telangana",1
+56,"Nizamabad","Telangana",3
+57,"Medak","Telangana",3
 58,"Mahabubnagar","Telangana",5
 59,"Nalgonda","Telangana",5
-60,"Warangal","Telangana",1
-61,"Khammam","Telangana",1
-62,"Karimnagar","Telangana",1
-63,"Adilabad","Telangana",1
-65,"Kolar","Karnataka",6
+60,"Warangal","Telangana",3
+61,"Khammam","Telangana",3
+62,"Karimnagar","Telangana",3
+63,"Adilabad","Telangana",3
+65,"Kolar","Karnataka",4
 66,"Tumkur","Karnataka",5
-67,"Mysore","Karnataka",6
-68,"Mandya","Karnataka",6
+67,"Mysore","Karnataka",3
+68,"Mandya","Karnataka",4
 69,"Hassan","Karnataka",1
 70,"Shimoge","Karnataka",2
 71,"Chickmagalur","Karnataka",2
 72,"Chitradurga","Karnataka",5
 73,"Bellary","Karnataka",5
-74,"Dharwad","Karnataka",1
+74,"Dharwad","Karnataka",3
 75,"Belgaum","Karnataka",1
-77,"Bidar","Karnataka",1
+77,"Bidar","Karnataka",3
 78,"Raichur","Karnataka",5
 79,"Gulbarga","Karnataka",5
 80,"Dakshina Kannada","Karnataka",2
 81,"Uttara Kannada","Karnataka",2
 82,"Kodagu","Karnataka",2
-83,"Chengalpattu MGR Kancheepuram","Tamil Nadu",4
-84,"South Arcot Cuddalore","Tamil Nadu",4
+83,"Chengalpattu MGR Kancheepuram","Tamil Nadu",6
+84,"South Arcot Cuddalore","Tamil Nadu",6
 85,"North Arcot Vellore","Tamil Nadu",4
 86,"Salem","Tamil Nadu",4
-87,"Coimbatore","Tamil Nadu",6
+87,"Coimbatore","Tamil Nadu",2
 88,"Tiruchirapalli Trichy","Tamil Nadu",4
-89,"Thanjavur","Tamil Nadu",4
+89,"Thanjavur","Tamil Nadu",6
 90,"Madurai","Tamil Nadu",4
-91,"Ramananthapuram","Tamil Nadu",4
-92,"Thirunelveli","Tamil Nadu",4
+91,"Ramananthapuram","Tamil Nadu",6
+92,"Thirunelveli","Tamil Nadu",6
 93,"The Nilgiris","Tamil Nadu",2
-94,"Kanyakumari","Tamil Nadu",4
+94,"Kanyakumari","Tamil Nadu",6
 96,"Thane","Maharashtra",2
 98,"Ratnagiri","Maharashtra",2
 99,"Nasik","Maharashtra",1
@@ -103,7 +103,7 @@
 107,"Kolhapur","Maharashtra",2
 109,"Parbhani","Maharashtra",3
 110,"Beed","Maharashtra",5
-111,"Nanded","Maharashtra",1
+111,"Nanded","Maharashtra",3
 112,"Osmanabad","Maharashtra",5
 113,"Buldhana","Maharashtra",5
 114,"Akola","Maharashtra",5
@@ -113,24 +113,24 @@
 118,"Nagpur","Maharashtra",1
 119,"Bhandara","Maharashtra",1
 120,"Chandrapur","Maharashtra",1
-121,"Ahmedabad","Gujarat",3
+121,"Ahmedabad","Gujarat",5
 122,"Amreli","Gujarat",5
 123,"Banaskantha","Gujarat",5
 124,"Bharuch","Gujarat",3
-125,"Vadodara","Gujarat",1
+125,"Vadodara","Gujarat",3
 126,"Bhavnagar","Gujarat",5
 127,"Valsad","Gujarat",2
 128,"Dangs","Gujarat",2
-130,"Junagadh","Gujarat",3
+130,"Junagadh","Gujarat",1
 131,"Kheda","Gujarat",3
-133,"Mehsana","Gujarat",3
+133,"Mehsana","Gujarat",5
 134,"Panchmahal","Gujarat",1
 136,"Sabarkantha","Gujarat",3
 137,"Surat","Gujarat",1
 138,"Surendranagar","Gujarat",5
 139,"Ajmer","Rajasthan",5
 140,"Alwar","Rajasthan",5
-141,"Banswara","Rajasthan",3
+141,"Banswara","Rajasthan",1
 143,"Bharatpur","Rajasthan",5
 144,"Bhilwara","Rajasthan",5
 145,"Bikaner","Rajasthan",5
@@ -139,7 +139,7 @@
 149,"Dungarpur","Rajasthan",3
 150,"Ganganagar","Rajasthan",5
 151,"Jaipur","Rajasthan",5
-154,"Jhalawar","Rajasthan",3
+154,"Jhalawar","Rajasthan",1
 155,"Jhunjhunu","Rajasthan",5
 156,"Jodhpur","Rajasthan",5
 157,"Kota","Rajasthan",3
@@ -147,7 +147,7 @@
 160,"Swami Madhopur","Rajasthan",3
 162,"Sirohi","Rajasthan",3
 163,"Tonk","Rajasthan",5
-164,"Udaipur","Rajasthan",3
+164,"Udaipur","Rajasthan",5
 165,"Gurdaspur","Punjab",1
 166,"Amritsar","Punjab",5
 167,"Kapurthala","Punjab",5
@@ -178,17 +178,17 @@
 193,"Ghaziabad","Uttar Pradesh",3
 194,"Aligarh","Uttar Pradesh",3
 195,"Mathura","Uttar Pradesh",5
-196,"Agra","Uttar Pradesh",3
-197,"Mainpuri","Uttar Pradesh",3
-198,"Etah","Uttar Pradesh",3
+196,"Agra","Uttar Pradesh",5
+197,"Mainpuri","Uttar Pradesh",5
+198,"Etah","Uttar Pradesh",5
 199,"Bareilly","Uttar Pradesh",3
 200,"Budaun","Uttar Pradesh",3
 201,"Moradabad","Uttar Pradesh",3
 202,"Shahjahanpur","Uttar Pradesh",3
 203,"Pilibhit","Uttar Pradesh",1
-204,"Rampur","Uttar Pradesh",1
+204,"Rampur","Uttar Pradesh",3
 205,"Bijnor","Uttar Pradesh",1
-206,"Farrukhabad","Uttar Pradesh",3
+206,"Farrukhabad","Uttar Pradesh",5
 207,"Etawah","Uttar Pradesh",3
 209,"Fatehpur","Uttar Pradesh",3
 210,"Allahabad","Uttar Pradesh",3
@@ -215,34 +215,34 @@
 232,"Gonda","Uttar Pradesh",3
 233,"Bahraich","Uttar Pradesh",3
 234,"Sultanpur","Uttar Pradesh",3
-235,"Pratapgarh","Uttar Pradesh",3
+235,"Pratapgarh","Uttar Pradesh",1
 236,"Barabanki","Uttar Pradesh",3
-237,"Nainital","Uttarakhand",1
-238,"Almorah","Uttarakhand",1
-239,"Pithorgarh","Uttarakhand",1
-240,"Chamoli","Uttarakhand",1
-241,"Uttar Kashi","Uttarakhand",1
-242,"Tehri Garhwal","Uttarakhand",1
-243,"Garhwal","Uttarakhand",1
-244,"Dehradun","Uttarakhand",1
+237,"Nainital","Uttarakhand",2
+238,"Almorah","Uttarakhand",2
+239,"Pithorgarh","Uttarakhand",2
+240,"Chamoli","Uttarakhand",2
+241,"Uttar Kashi","Uttarakhand",2
+242,"Tehri Garhwal","Uttarakhand",2
+243,"Garhwal","Uttarakhand",2
+244,"Dehradun","Uttarakhand",2
 501,"Rajnandgaon","Chhattisgarh",1
 502,"Bhopal","Madhya Pradesh",1
-503,"Vizianagaram","Andhra Pradesh",1
-504,"Prakasam","Andhra Pradesh",6
+503,"Vizianagaram","Andhra Pradesh",3
+504,"Prakasam","Andhra Pradesh",4
 506,"Dharmapuri","Tamil Nadu",4
 507,"Periyar(Erode)","Tamil Nadu",4
 508,"Pudukkottai","Tamil Nadu",4
 509,"Dindigul Anna","Tamil Nadu",4
-510,"Virudhunagar Kamarajar","Tamil Nadu",4
+510,"Virudhunagar Kamarajar","Tamil Nadu",6
 512,"Sivagangai Pasumpon","Tamil Nadu",4
-513,"Chidambanar Toothukudi","Tamil Nadu",4
+513,"Chidambanar Toothukudi","Tamil Nadu",6
 514,"Jalna","Maharashtra",5
 515,"Latur","Maharashtra",3
 516,"Gadchiroli","Maharashtra",1
 517,"Sindhudurg","Maharashtra",2
 518,"Gandhinagar","Gujarat",3
 519,"Dholpur","Rajasthan",3
-520,"Rangareddy","Telangana",1
+520,"Rangareddy","Telangana",3
 521,"Thiruvannamalai","Tamil Nadu",4
 523,"Yamunanagar","Haryana",1
 524,"Kaithal","Haryana",5
@@ -250,65 +250,65 @@
 526,"Rewari","Haryana",5
 527,"Haridwar","Uttarakhand",1
 528,"Firozabad","Uttar Pradesh",3
-529,"Sonbhadra","Uttar Pradesh",1
-530,"Mau","Uttar Pradesh",1
+529,"Sonbhadra","Uttar Pradesh",3
+530,"Mau","Uttar Pradesh",3
 531,"Mahrajgani","Uttar Pradesh",1
 532,"Sidharthnagar","Uttar Pradesh",1
 533,"Mahoba","Uttar Pradesh",3
-536,"Baran","Rajasthan",3
+536,"Baran","Rajasthan",1
 537,"Dausa","Rajasthan",5
 538,"Rajsamand","Rajasthan",5
 539,"Hanumangarh","Rajasthan",5
-542,"Nagapattinam","Tamil Nadu",4
+542,"Nagapattinam","Tamil Nadu",6
 543,"Villupuram","Tamil Nadu",4
 545,"Mansa","Punjab",5
-546,"Fatehgarh Sahib","Punjab",3
+546,"Fatehgarh Sahib","Punjab",5
 547,"Kanpur Nagar","Uttar Pradesh",3
-548,"Kanpur Dehat","Uttar Pradesh",3
-549,"Bangalore(Rural)","Karnataka",6
-550,"Bangalore(Urban)","Karnataka",6
+548,"Kanpur Dehat","Uttar Pradesh",5
+549,"Bangalore(Rural)","Karnataka",4
+550,"Bangalore(Urban)","Karnataka",4
 601,"Cachar","Assam",2
 602,"Darrang","Assam",1
 603,"Dibrugarh","Assam",2
 604,"Goalpara","Assam",2
 605,"Kamrup","Assam",2
-606,"Karbi Anglong","Assam",1
+606,"Karbi Anglong","Assam",2
 607,"Lakhimpur","Assam",2
 608,"North Cachar Hil","Assam",2
 609,"Nagaon","Assam",1
 610,"Sibsagar","Assam",2
 615,"Barpeta","Assam",2
 616,"Dhubri","Assam",2
-617,"Golaghat","Assam",1
+617,"Golaghat","Assam",2
 618,"Jorhat","Assam",2
 619,"Karimganj","Assam",2
 620,"Kokrajhar","Assam",2
-621,"Nalbari","Assam",1
+621,"Nalbari","Assam",2
 622,"Sonitpur","Assam",2
 626,"Bilashpur","Himachal Pradesh",1
 627,"Chamba","Himachal Pradesh",1
 628,"Hamirpur","Himachal Pradesh",3
-629,"Kangra","Himachal Pradesh",1
-630,"Kinnaur","Himachal Pradesh",1
-631,"Kullu","Himachal Pradesh",1
+629,"Kangra","Himachal Pradesh",2
+630,"Kinnaur","Himachal Pradesh",3
+631,"Kullu","Himachal Pradesh",3
 633,"Solan","Himachal Pradesh",1
 634,"Mandi","Himachal Pradesh",1
 635,"Shimla","Himachal Pradesh",1
-636,"Sirmaur","Himachal Pradesh",1
+636,"Sirmaur","Himachal Pradesh",2
 637,"Una","Himachal Pradesh",1
 651,"Alappuzha","Kerala",2
 652,"Kannur","Kerala",2
 653,"Eranakulam","Kerala",2
-654,"Idukki","Kerala",6
+654,"Idukki","Kerala",2
 655,"Kottayam","Kerala",2
 656,"Kozhikode","Kerala",2
 657,"Malappuram","Kerala",2
 658,"Palakkad","Kerala",2
-659,"Kollam","Kerala",6
+659,"Kollam","Kerala",2
 660,"Thrissur","Kerala",2
-661,"Thiruvananthapuram","Kerala",6
+661,"Thiruvananthapuram","Kerala",2
 662,"Kasaragod","Kerala",2
-663,"Pathanamthitta","Kerala",6
+663,"Pathanamthitta","Kerala",2
 664,"Wayanad","Kerala",2
 701,"Balasore","Orissa",1
 702,"Bolangir","Orissa",1
@@ -318,7 +318,7 @@
 706,"Kalahandi","Orissa",1
 707,"Keonjhar","Orissa",1
 708,"Koraput","Orissa",1
-709,"Mayurbhanja","Orissa",2
+709,"Mayurbhanja","Orissa",1
 710,"Phulbani(Kandhamal)","Orissa",1
 711,"Puri","Orissa",1
 712,"Sambalpur","Orissa",1
@@ -352,7 +352,7 @@
 912,"Gaya","Bihar",3
 913,"Hazaribagh","Jharkhand",1
 914,"Dhanbad","Jharkhand",1
-915,"Palamau","Jharkhand",1
+915,"Palamau","Jharkhand",3
 916,"Ranchi","Jharkhand",1
 918,"Nalanda","Bihar",3
 919,"Nawada","Bihar",3
@@ -389,7 +389,7 @@
 951,"Supaul","Bihar",1
 952,"Chatra","Jharkhand",1
 953,"Bokaro","Jharkhand",1
-954,"Gadva Garhwa","Jharkhand",1
+954,"Gadva Garhwa","Jharkhand",3
 955,"Khodrama Koderma","Jharkhand",3
 956,"Lakhisarai","Bihar",3
 957,"Pakund Pakur","Jharkhand",1
@@ -401,20 +401,20 @@
 964,"Sariakela Kharsawan","Jharkhand",1
 965,"Simdega","Jharkhand",1
 1001,"Anand","Gujarat",3
-1002,"Dahod","Gujarat",3
+1002,"Dahod","Gujarat",1
 1003,"Narmada","Gujarat",1
 1004,"Navsari","Gujarat",2
 1007,"Fatehabad","Haryana",5
 1008,"Jhajjar","Haryana",5
 1009,"Panchkula","Haryana",1
 1010,"Bagalkote","Karnataka",5
-1011,"Chamaraja Nagar","Karnataka",6
+1011,"Chamaraja Nagar","Karnataka",4
 1012,"Davanagere","Karnataka",5
 1013,"Gadag","Karnataka",5
-1014,"Haveri","Karnataka",1
+1014,"Haveri","Karnataka",3
 1015,"Koppal","Karnataka",5
 1016,"Udupi","Karnataka",2
-1017,"S.B.S Nagar","Punjab",3
+1017,"S.B.S Nagar","Punjab",5
 1018,"Shri Mukatsar Sahib","Punjab",5
 1019,"Moga","Punjab",5
 1020,"Karoli","Rajasthan",3
@@ -422,13 +422,13 @@
 1023,"Namakkal","Tamil Nadu",4
 1024,"Perambular","Tamil Nadu",4
 1025,"Theni","Tamil Nadu",4
-1026,"Tiruvarur","Tamil Nadu",4
-1027,"Thiruvallur","Tamil Nadu",4
+1026,"Tiruvarur","Tamil Nadu",6
+1027,"Thiruvallur","Tamil Nadu",6
 1028,"Ambedkar Nagar","Uttar Pradesh",3
 1029,"Kushi Nagar Padrauna","Uttar Pradesh",1
 1030,"Udham Singh Nagar","Uttarakhand",1
-1031,"Auraiya","Uttar Pradesh",3
-1032,"Bageshwar","Uttarakhand",1
+1031,"Auraiya","Uttar Pradesh",5
+1032,"Bageshwar","Uttarakhand",2
 1033,"Bagpat","Uttar Pradesh",3
 1034,"Balrampur","Uttar Pradesh",1
 1035,"Champavat","Uttarakhand",1
@@ -437,7 +437,7 @@
 1038,"G.B.Nagar","Uttar Pradesh",3
 1039,"Hathras","Uttar Pradesh",5
 1040,"Amroha J.B.Fulenagar","Uttar Pradesh",3
-1041,"Kannauj","Uttar Pradesh",3
+1041,"Kannauj","Uttar Pradesh",5
 1042,"Kushambi","Uttar Pradesh",3
 1043,"Rudraprayag","Uttarakhand",1
 1044,"Santh Ravi Das Nagar Bhadoi","Uttar Pradesh",3
@@ -453,9 +453,9 @@
 1057,"Dindori","Madhya Pradesh",1
 1058,"Harda","Madhya Pradesh",1
 1059,"Janjgir","Chhattisgarh",1
-1060,"Barwani","Madhya Pradesh",3
+1060,"Barwani","Madhya Pradesh",5
 1061,"Katni","Madhya Pradesh",1
-1062,"Neemuch","Madhya Pradesh",3
+1062,"Neemuch","Madhya Pradesh",1
 1063,"Sheopur Kalan","Madhya Pradesh",3
 1064,"Umaria","Madhya Pradesh",1
 1065,"Koriya","Chhattisgarh",1
@@ -469,23 +469,23 @@
 1073,"Hingoli","Maharashtra",3
 1074,"Nandurbar","Maharashtra",3
 1075,"Washim","Maharashtra",3
-1077,"Ariyalur","Tamil Nadu",4
-1080,"Krishnagiri","Tamil Nadu",6
+1077,"Ariyalur","Tamil Nadu",6
+1080,"Krishnagiri","Tamil Nadu",4
 1081,"Ashoknagar","Madhya Pradesh",3
 1082,"Burhanpur","Madhya Pradesh",3
 2001,"Tapi","Gujarat",2
 2002,"Mewat","Haryana",5
 2003,"Palwal","Haryana",5
-2004,"Ramanagaram","Karnataka",6
-2005,"Chikkaballapur","Karnataka",6
-2006,"Alirajpur","Madhya Pradesh",3
+2004,"Ramanagaram","Karnataka",4
+2005,"Chikkaballapur","Karnataka",4
+2006,"Alirajpur","Madhya Pradesh",1
 2007,"Singrauli","Madhya Pradesh",1
 2009,"Taran Taran","Punjab",5
 2010,"Barnala","Punjab",5
 2011,"S.A.S Nagar","Punjab",3
-2013,"Kasganj Khansi Ram Nagar","Uttar Pradesh",3
+2013,"Kasganj Khansi Ram Nagar","Uttar Pradesh",5
 2014,"Bijapur","Chhattisgarh",1
-2015,"Narayanpur","Chhattisgarh",2
+2015,"Narayanpur","Chhattisgarh",1
 2017,"Udalguri","Assam",2
 2018,"Baksa","Assam",2
 2019,"Chirang","Assam",2
@@ -501,7 +501,7 @@
 2035,"Baloda Bazar","Chhattisgarh",1
 2037,"Bemetra","Chhattisgarh",1
 2038,"Gariaband","Chhattisgarh",1
-2039,"Kondagaon","Chhattisgarh",2
+2039,"Kondagaon","Chhattisgarh",1
 2040,"Mungli","Chhattisgarh",1
 2041,"Sukma","Chhattisgarh",1
 2042,"Surajpur","Chhattisgarh",1
