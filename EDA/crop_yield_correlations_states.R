@@ -26,6 +26,11 @@ corr_method <- "spearman"
 rice_yield_df <- read.csv( file = paste0( indir, "/rice_yield.csv" ), header = TRUE, stringsAsFactors = FALSE )
 
 
+# REDEFINE THE NPK VARIABLES AS THE AMOUNTS PER UNIT AREA (KG/HA)
+rice_yield_clusters_df$nitrogen <- rice_yield_clusters_df$nitrogen/rice_yield_clusters_df$RICE.AREA..1000.ha.
+rice_yield_clusters_df$phosphate <- rice_yield_clusters_df$phosphate/rice_yield_clusters_df$RICE.AREA..1000.ha.
+rice_yield_clusters_df$potash <- rice_yield_clusters_df$potash/rice_yield_clusters_df$RICE.AREA..1000.ha.
+
 
 # MAKE LIST OF STATE NAMES IN ALPHABETICAL ORDER
 state_names <- sort( unique( rice_yield_df$State.Name ) )
