@@ -15,8 +15,10 @@ from os import chdir as cd
 path_to_data = '../Raw_data/India_districts2020.shp'
 gdf = gpd.read_file(path_to_data)
 
+# Supply API key here
+API_KEY="" 
 
-API_KEY="NLDNET8VQKEHUEDYTBL4RGQVC"
+# Location of interest
 LOCATION="Nainital"
 #LOCATION = gdf.distname[0] 
 UNIT_GROUP="in"
