@@ -25,11 +25,9 @@ This project was completed as part of the Erdos Institute Data Science Bootcamp,
 
 ## Project Goal <a name="project"></a>
 
-Home to over 1.38 billion people, India is tackling a severe hunger crisis. Rice is the staple food crop for over 50% of India's
-population. Though the country has achieved grain self-sufficiency in production, nearly 14% of its population is still undernourished. India's agricultural landscape is primarily rural, where widespread poverty, low literacy rates, and poor infrastructure lead to questions over its sustainability. Indiscriminate use of fertilizers has led to significant vagaries in crop production despite consistent agricultural subsidies. <br>
+Home to over 1.38 billion people, India is tackling a severe hunger crisis. Though the country has achieved self-sufficiency in grain production, nearly 14% of the population is still undernourished. India's agricultural landscape is primarily rural, where widespread poverty, low literacy rates, and poor infrastructure lead to questions over its sustainability. Indiscriminate use of fertilizers has led to significant irregularity in crop production despite consistent agricultural subsidies. <br>
 
-With the current global shortage of fertilizers, precision farming is vital to eliminate redundant costs and streamline resources to ensure equitable food access for all communities. Here, we assist agriculture policy-makers in their decisions by predicting the expected NPK fertilizer input
-(NPK: nitrogen, phosphorus, and potash) to obtain a specific rice yield.  <br>
+With the current global shortage of fertilizers, precision farming is vital to eliminate redundant costs and streamline resources to ensure equitable food access for all communities. Here, we assist policy-makers in their decisions through models predicting the fertilizer consumption (nitrogen, phosphorus, and potash) required to obtain a specific rice yield. <br>
 
 ## Methodology <a name="methods"></a>
 Rice is a hardy crop capable of thriving in a variety of soils, including loams, silts, and gravel. Collating up to 26 years of district-level rice cultivation (cropped area, yield, irrigated area) and environment data (temperature, precipitation, wind speed, evapotranspiration), our analysis involved two key steps. <br>
