@@ -57,7 +57,7 @@ For every cluster, we independently regressed their nitrogen, phosphorous, and p
 
 
 ## Future Work <a name="future"></a>
-Future extensions to our model will incorporate soil nutrient data and knowledge of off-season farming practices (e.g., crop rotation) to improve the accuracy of our estimated fertilizer inputs. <br>
+Future extensions to our model will incorporate soil nutrient data, solar irradiance data, and knowledge of off-season farming practices (e.g., crop rotation) to improve the accuracy of our estimated fertilizer inputs. <br>
 
 ## Troubleshooting <a name="troubleshooting"></a>
 Please submit an issue to voice any problems or requests. Suggestions that will help improve our data analyses are always welcome.
