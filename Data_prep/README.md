@@ -1,4 +1,4 @@
-Scripts to clean raw data and output pristine data sets.
+Scripts to clean raw data, remove missing values, and output pristine data sets.
 
 ### Files: <br>
 1. `rice_prep.ipynb`: Generate [`rice_yield.csv`](https://github.com/akshaysuresh1/may22-barrel/blob/main/Final_data/rice_yield.csv) by compiling data from multiple ICRISAT databases. <br>
