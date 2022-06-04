@@ -9,7 +9,7 @@
 * [Emilio Codecido](https://www.linkedin.com/in/emilio-codecido/)
 * [Leonardo Santana](https://www.linkedin.com/in/leonardo-santana-4455594b/)
 
-This project was completed as part of the Erdos Institute Data Science Bootcamp, May 2022. <br>
+This project was completed as part of the Erdos Institute Data Science Bootcamp, May 2022. Special mention to [James Bramante](https://www.linkedin.com/in/jamesbramante/) for mentoring us throughout the duration of the bootcamp. <br>
 
 ---
 
