@@ -11,6 +11,10 @@
 
 This project was completed as part of the Erdos Institute Data Science Bootcamp, May 2022. Special mention to [James Bramante](https://www.linkedin.com/in/jamesbramante/) for mentoring us throughout the duration of the bootcamp. <br>
 
+5 minute video presentation: [MP4](https://github.com/akshaysuresh1/may22-barrel/blob/main/media/may22-barrel.mp4?raw=True) <br>
+Presentation slides: [PDF](https://github.com/akshaysuresh1/may22-barrel/blob/main/media/may22-barrel_slides.pdf?raw=True) <br>
+Executive summary: [PDF](https://github.com/akshaysuresh1/may22-barrel/blob/main/media/May22-barrel_execsummary.pdf?raw=True) <br>
+
 ---
 
 ## Table of Contents
